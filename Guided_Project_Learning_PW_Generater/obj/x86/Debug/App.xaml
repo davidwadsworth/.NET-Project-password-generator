@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="Guided_Project_Learning_PW_Generater.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Guided_Project_Learning_PW_Generater"
+    RequestedTheme="Light">
+
+</Application>
+
